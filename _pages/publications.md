@@ -20,5 +20,5 @@ author_profile: true
 
 ---
 
-- Ashek Seum, **Amir Hossain Raj**, Shadman Sakib, Tonmoy Hossain,["A Comparative Study of CNNTransfer Learning Classification Algorithms with Segmentation for COVID-19 Detection from CT Scan Images”](), Accepted at The 11th International Conference on Electrical and Computer Engineering, Dhaka, Bangladesh (ICECE 2020).
+- Ashek Seum, **Amir Hossain Raj**, Shadman Sakib, Tonmoy Hossain,["A Comparative Study of CNNTransfer Learning Classification Algorithms with Segmentation for COVID-19 Detection from CT Scan Images”](https://ieeexplore.ieee.org/abstract/document/9393129), Accepted at The 11th International Conference on Electrical and Computer Engineering, Dhaka, Bangladesh (ICECE 2020).
 [<span style ="color:Green"> [**Presentation**] </span>](https://amirraj.github.io/files/ICECE20_presentation.pdf) 
