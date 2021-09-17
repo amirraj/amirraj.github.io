@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amir Hossain Raj"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
