@@ -6,18 +6,18 @@ author_profile: true
 ---
 
 ## Teaching Experience
-* **Lecturer** at [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh. _[November 2021 - Current]_
+* **Lecturer** at [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh. _[November 2021 - Current]_ <br />
    Courses:
      - Elementary Structured Programming Lab (CSE 1102)
      - Software Development-II (CSE 2100)
      - Computer Networks Lab (CSE 4102)
      - CompilerFormal Languages and Compilers Lab (CSE 4130)
 
-* **Course Instructor** at [Amar iSchool](https://amarischool.com/), Dhaka, Bangladesh. _[January 2022]_
+* **Course Instructor** at [Amar iSchool](https://amarischool.com/), Dhaka, Bangladesh. _[January 2022]_ <br />
    Courses:
      - [Natural Language Processing](https://amarischool.com/home/course/natural-language-processing-nlp/14)
 
-## Industrial Experience
+## Industry Experience
 * **Associate Software Engineer (ML Developer)** in R&D team at [Brain Station 23](https://brainstation-23.com/), Bangladesh. _[January 2021 - November 2021]_
 * **Software Engineer (Part-time)** at [Pioneer Alpha](https://pioneeralpha.com/), Bangladesh. _[April 2021 - July 2021]_
 
