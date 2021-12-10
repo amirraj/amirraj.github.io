@@ -11,7 +11,7 @@ author_profile: true
      - Elementary Structured Programming Lab (CSE 1102)
      - Software Development-II (CSE 2100)
      - Computer Networks Lab (CSE 4102)
-     - CompilerFormal Languages and Compilers Lab (CSE 4130)
+     - Formal Languages and Compilers Lab (CSE 4130)
 
 * **Course Instructor** at [Amar iSchool](https://amarischool.com/), Dhaka, Bangladesh. _[January 2022]_ <br />
    Courses:
