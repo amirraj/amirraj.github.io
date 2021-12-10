@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I am Amir Hossain Raj, graduated with a B.Sc. degree in Computer Science and Engineering from [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh. My research interests include, but are not limited to, Deep Learning, Machine Learning, Computer Vision and NLP. I have recently presented my undergraduate thesis at [**The 26th IEEE International Conference on Automation and Computing**](http://www.cacsuk.co.uk/index.php/icac2021). Currently, I am working as an Associate Software Engineer (ML/AI) at [Brain Station 23](https://brainstation-23.com/?bs), Bangladesh.
+I am Amir Hossain Raj, graduated with a B.Sc. degree in Computer Science and Engineering from [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh. My research interests include, but are not limited to, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have recently presented my undergraduate thesis at [**The 26th IEEE International Conference on Automation and Computing**](http://www.cacsuk.co.uk/index.php/icac2021). Currently, I am serving my Alma Mater as a Lecturer.
 
 
 **For additional information, please see my [CV](https://amirraj.github.io/cv/) and [publications](https://amirraj.github.io/publications/).**
@@ -14,6 +14,7 @@ I am Amir Hossain Raj, graduated with a B.Sc. degree in Computer Science and Eng
 
 ## Recent News
 
+- <span style="color:Blue"> [November 24, 2021] </span> - Joined as a Lecturer at [AUST](http://aust.edu/).
 - <span style="color:Blue"> [September 3, 2021] </span> - Presented a paper at [ICAC'21](http://www.cacsuk.co.uk/index.php/icac2021).
 - <span style="color:Blue"> [July 7, 2021] </span> - One paper got accepted at [ICAC'21](http://www.cacsuk.co.uk/index.php/icac2021).
 - <span style="color:Blue"> [May 5, 2021] </span> - Served as a reviewer for [ICAC'21](http://www.cacsuk.co.uk/index.php/icac2021).

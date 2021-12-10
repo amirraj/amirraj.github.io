@@ -5,8 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-## [Running Projects]
+## [Recent Projects]
 - **ML & AI**
+  * Image Forgery Detection.
   * Automatic Radiology Report Generation from X-Rays.
   * Machine Reading Comprehension in Medical Field.
   * Data analysis of clinical trials using Unsupervised Learning. 

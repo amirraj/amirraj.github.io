@@ -10,7 +10,7 @@ author_profile: true
 
 ---
 
-- **Amir Hossain Raj**, Ashek Seum, Aurpan Dash, Saiful Islam, Faisal Muhammad Shah, ["Deep Learning Based  Video  Captioning  in  Bengali"](), In Proceedings of the 26th IEEE International Conference on Automation and Computing (ICAC), 2021 [To be appeared]
+- **Amir Hossain Raj**, Ashek Seum, Aurpan Dash, Saiful Islam, Faisal Muhammad Shah, ["Deep Learning Based  Video  Captioning  in  Bengali"](https://ieeexplore.ieee.org/abstract/document/9594154), In Proceedings of the 26th IEEE International Conference on Automation and Computing (ICAC), 2021.
 
 - Saiful Islam, Aurpan Dash, Ashek Seum, **Amir Hossain Raj**, Tonmoy Hossain, Faisal Muhammad Shah,["Exploring Video Captioning techniques:  A Comprehensive Survey on Deep Learning Methods”](https://link.springer.com/article/10.1007/s42979-021-00487-x?wt_mc=Internal.Event.1.SEM.ArticleAuthorIncrementalIssue&utm_source=ArticleAuthorIncrementalIssue&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorIncrementalIssue_20210302), Springer Nature Computer Science. 2, 120 (2021).
 

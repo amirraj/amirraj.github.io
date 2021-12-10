@@ -5,10 +5,21 @@ permalink: /experience/
 author_profile: true
 ---
 
+## Teaching Experience
+* **Lecturer** at [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh. _[November 2021 - Current]_
+   Courses:
+     - Elementary Structured Programming Lab (CSE 1102)
+     - Software Development-II (CSE 2100)
+     - Computer Networks Lab (CSE 4102)
+     - CompilerFormal Languages and Compilers Lab (CSE 4130)
+
+* **Course Instructor** at [Amar iSchool](https://amarischool.com/), Dhaka, Bangladesh. _[January 2022]_
+   Courses:
+     - [Natural Language Processing](https://amarischool.com/home/course/natural-language-processing-nlp/14)
 
 ## Industrial Experience
-* **Associate Software Engineer (ML Developer)** in R&D team at [Brain Station 23](https://brainstation-23.com/), Bangladesh. _[January 2021 - Current]_
-* **Software Engineer (Part-time)** at [Pioneer Alpha](https://pioneeralpha.com/), Bangladesh. _[April 2021 - Current]_
+* **Associate Software Engineer (ML Developer)** in R&D team at [Brain Station 23](https://brainstation-23.com/), Bangladesh. _[January 2021 - November 2021]_
+* **Software Engineer (Part-time)** at [Pioneer Alpha](https://pioneeralpha.com/), Bangladesh. _[April 2021 - July 2021]_
 
 <br />
 ## Personal Development
@@ -19,7 +30,7 @@ author_profile: true
 
 * **Dean's List of Honors** (Bachelor of Science)
 * **2nd positionin** Intra AUST Programming Contest Fall-17
-* Served as a reviewer for the 26th IEEE International Conference on Automation andComputing (ICAC’21)
+* Served as a reviewer for the 26th IEEE International Conference on Automation and Computing (ICAC’21)
 * Participated in Intra AUST Programming Contest Spring-16, Spring-17, Fall-18
 * Participated in Hackathon at BUP ICT Fest-2018
 * Participated in Idea Contest in FABFEST-2018 by FABLAB DU at University of Dhaka 
