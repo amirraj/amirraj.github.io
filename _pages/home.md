@@ -13,7 +13,7 @@ I am Amir Hossain Raj, graduated with a B.Sc. degree in Computer Science and Eng
 
 
 ## Recent News
-
+- <span style="color:Blue"> [August 22, 2022] </span> - Joined as a Graduate Teaching Assitant at [GMU](http://gmu.edu/).
 - <span style="color:Blue"> [November 24, 2021] </span> - Joined as a Lecturer at [AUST](http://aust.edu/).
 - <span style="color:Blue"> [September 3, 2021] </span> - Presented a paper at [ICAC'21](http://www.cacsuk.co.uk/index.php/icac2021).
 - <span style="color:Blue"> [July 7, 2021] </span> - One paper got accepted at [ICAC'21](http://www.cacsuk.co.uk/index.php/icac2021).
