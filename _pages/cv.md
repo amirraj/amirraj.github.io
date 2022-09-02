@@ -6,10 +6,16 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download Full CV](https://amirraj.github.io/files/AmirHossainRajCV.pdf) [<ins>*Last Updated on December 10, 2021*</ins>]
+[Download Full CV](https://amirraj.github.io/files/AmirHossainRajCV.pdf) [<ins>*Last Updated on September 02, 2022*</ins>]
 
 ## Education 
 -------------
+
+## Ph.D. in Computer Science 
+---
+- [George Mason University (GMU)](http://gmu.edu/), Virginia, USA.<br>
+<i style='color:#000099;'>**August 2022 - Present**</i>
+
 ## B.Sc. in Computer Science and Engineering
 ---
 
@@ -22,11 +28,15 @@ redirect_from:
 
 ## Employment 
 -------------
+<b>Graduate Teaching Assistant</b><br />
+George Mason University <br/>
+Fairfax, Virginia<br />
+<i style='color:#000099;'>**August 2022 - Present**</i><br/>
 
 <b>Lecturer</b><br />
 Ahsanullah University of Science & Technology <br/>
 Dhaka, Bangladesh<br />
-<i style='color:#000099;'>**November 2021 - Current**</i><br/>
+<i style='color:#000099;'>**November 2021 - July 2022**</i><br/>
 
 <b>Associate Software Engineer</b><br />
 Brain Station 23 <br/>
@@ -42,7 +52,7 @@ Dhaka, Bangladesh<br />
 ## Contact Me
 -------------
 
-**Email:** raj.amir [at] outlook [dot] com  OR  raj.cse [at] aust [dot] edu<br /> 
+**Email:** raj.amir [at] outlook [dot] com  OR  araj20 [at] gmu [dot] edu<br /> 
            
  <br /> 
 **Website:** [https://amirraj.com](https://amirraj.com/) <br />
@@ -52,12 +62,9 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 
 **Address:**
 <address>
-Ahsanullah University of Science & Technology<br>
-141 & 142, Love Rd, Dhaka 1208, Bangladesh <br /> 
+George Mason University<br>
+Nguyen Engineering Building, Virginia 22030 <br /> 
 </address> 
 <br />
-<!-- <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=brain%20station%2023&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.zipcodewiki.net">zipcodewiki.net</a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">embed map in email</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>  -->
-<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.5375119530972!2d90.40462791445606!3d23.76386639417981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c77decb5f845%3A0xc2eadd2f3b867792!2sAhsanullah%20University%20of%20Science%20and%20Technology!5e0!3m2!1sen!2sus!4v1584909327199!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> -->
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.5387581242967!2d90.40448511498161!3d23.763821984582734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c77decb5f845%3A0xc2eadd2f3b867792!2sAhsanullah%20University%20of%20Science%20and%20Technology!5e0!3m2!1sen!2sbd!4v1639144211889!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3108.2153325813333!2d-77.30725808536579!3d38.827529058665995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe7b10bfe10eb8e6c!2zMzjCsDQ5JzM5LjYiTiA3N8KwMTgnMTguMyJX!5e0!3m2!1sen!2sus!4v1662156060908!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   

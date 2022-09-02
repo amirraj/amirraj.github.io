@@ -6,14 +6,21 @@ author_profile: true
 ---
 
 ## Teaching Experience
-* **Lecturer** at [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh. _[November 2021 - Current]_ <br />
+* **Graduate Teaching Assistant** at [George Mason University (GMU)](http://gmu.edu/), Fairfax, Virginia, USA. _[August 2022 - Present]_ <br />
+   Courses:
+     - Introduction to Computer Programming (CS 112)
+
+* **Lecturer** at [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh. _[November 2021 - August 2022]_ <br />
    Courses:
      - Elementary Structured Programming Lab (CSE 1102)
      - Software Development-II (CSE 2100)
      - Computer Networks Lab (CSE 4102)
      - Formal Languages and Compilers Lab (CSE 4130)
+     - Operating System Lab (CSE 3214)
+     - Software Development-III (CSE 2200)
+     - Assembly Programming Lab (CSE 2214)
 
-* **Course Instructor** at [Amar iSchool](https://amarischool.com/), Dhaka, Bangladesh. _[January 2022]_ <br />
+* **Course Instructor** at [Amar iSchool](https://amarischool.com/), Dhaka, Bangladesh. _[Upcoming]_ <br />
    Courses:
      - [Natural Language Processing](https://amarischool.com/home/course/natural-language-processing-nlp/14)
 

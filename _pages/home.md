@@ -5,15 +5,14 @@ permalink: /home/
 author_profile: true
 ---
 
-
-I am Amir Hossain Raj, graduated with a B.Sc. degree in Computer Science and Engineering from [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh. My research interests include, but are not limited to, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have recently presented my undergraduate thesis at [**The 26th IEEE International Conference on Automation and Computing**](http://www.cacsuk.co.uk/index.php/icac2021). Currently, I am serving my Alma Mater as a Lecturer.
+I am Amir Hossain Raj, a PhD student at [George Mason University (GMU)](http://gmu.edu/) in the Dept. of Computer Science. I have graduated with a B.Sc. degree in Computer Science and Engineering from [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh. My research interests include, but are not limited to, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. Currently, I am working as a Graduate Teaching Assistant at GMU.
 
 
 **For additional information, please see my [CV](https://amirraj.github.io/cv/) and [publications](https://amirraj.github.io/publications/).**
 
 
 ## Recent News
-- <span style="color:Blue"> [August 22, 2022] </span> - Joined as a Graduate Teaching Assitant at [GMU](http://gmu.edu/).
+- <span style="color:Blue"> [August 22, 2022] </span> - Joined as a Graduate Teaching Assistant at [GMU](http://gmu.edu/).
 - <span style="color:Blue"> [November 24, 2021] </span> - Joined as a Lecturer at [AUST](http://aust.edu/).
 - <span style="color:Blue"> [September 3, 2021] </span> - Presented a paper at [ICAC'21](http://www.cacsuk.co.uk/index.php/icac2021).
 - <span style="color:Blue"> [July 7, 2021] </span> - One paper got accepted at [ICAC'21](http://www.cacsuk.co.uk/index.php/icac2021).
