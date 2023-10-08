@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 ## [Recent Projects]
+- **Targeted Learning: A Hybrid Approach to Social Robot Navigation**
+  * Abstract: Empowering robots to navigate in a socially compliant manner is essential for the acceptance of robots moving in human-inhabited environments. Previously, roboticists have developed classical navigation systems with decades of empirical validation to achieve safety and efficiency. However, the many complex factors of social compliance make classical navigation systems hard to adapt to social situations, where no amount of tuning enables them to be both safe (people are too unpredictable) and efficient (the frozen robot problem). With recent advances in deep learning approaches, the common reaction has been to entirely discard classical navigation systems and start from scratch, building a completely new learning-based social navigation planner. In this work, we find that this reaction is unnecessarily extreme: using a large-scale real-world social navigation dataset, SCAND, we find that classical systems can be used safely and efficiently in a large number of social situations (up to 80%). We therefore ask if we can rethink this problem by leveraging the advantages of both classical and learning-based approaches. We propose a hybrid strategy in which we learn to switch between a classical geometric planner and a data-driven method. Our experiments on both SCAND and two physical robots show that the hybrid planner can achieve better social compliance in terms of a variety of metrics, compared to using either the classical or learning-based approach alone. [[Preprint]](https://browse.arxiv.org/pdf/2309.13466.pdf) [[Video]](https://youtu.be/QT0JTuPhnqE?si=5KXGpkhJGD_5NO8D)
+  
+- **A Study on Learning Social Robot Navigation with Multimodal Perception**
+  * Abstract: Autonomous mobile robots need to perceive the environments with their onboard sensors (e.g., LiDARs and RGB cameras) and then make appropriate navigation decisions. In order to navigate human-inhabited public spaces, such a navigation task becomes more than only obstacle avoidance, but also requires considering surrounding humans and their intentions to somewhat change the navigation behavior in response to the underlying social norms, i.e., being socially compliant. Machine learning methods are shown to be effective in capturing those complex and subtle social interactions in a data-driven manner, without explicitly hand-crafting simplified models or cost functions. Considering multiple available sensor modalities and the efficiency of learning methods, this paper presents a comprehensive study on learning social robot navigation with multimodal perception using a large-scale realworld dataset. The study investigates social robot navigation decision making on both the global and local planning levels and contrasts unimodal and multimodal learning against a set of classical navigation approaches in different social scenarios, while also analyzing the training and generalizability performance from the learning perspective. We also conduct a human study on how learning with multimodal perception affects the perceived social compliance. The results show that multimodal learning has a clear advantage over unimodal learning in both dataset and human studies. We open-source our code for the community’s future use to study multimodal perception for learning social robot navigation. [[Preprint]](https://browse.arxiv.org/pdf/2309.12568.pdf) [[Video]](https://youtu.be/5j8mAK9ecjs?si=dSjcXME6bupwPp-x)
+
+
+## [Previous Projects]
 - **ML & AI**
   * Image Forgery Detection.
   * Automatic Radiology Report Generation from X-Rays.
@@ -15,88 +23,3 @@ author_profile: true
 - **Development**
   * Design and develop APIs for data enrichment and search in Clinical Data Portal. <ins>Tools:</ins> Node.js, React, PostgreSQL, Sequelize
   * Design and build backend of an online Course-Selling website. <ins>Tools:</ins> AWS Serverless, DynamoDb, Node.js, GraphQL
-
-
-
-## Undergraduate Course Projects [2016-2020]
-
----
-
-- **Distributed Chain Shop Management System**:
-   <br><ins>Course:</ins> Distributed Database Systems Lab
-   <br><ins>Tools:</ins> PL/SQL
-  <br>
-  A PL/SQL project that contains queries to manipulate the tables of a Distributed Database System of a Chain
-  Shop. Example: simultaneously price update, give SALE, view purchase history of users in multiple branches. [[Code]](https://github.com/amirraj/Distributed-ChainShop-Management)
-
-
-- **Online University Admission Test**:
-   <br>Course: Software Development-V
-   <br><ins>Tools:</ins> ASP.net (MVC), SQL
-  <br>
-  A website for arranging online tests which has three different user panels : Admin, Exam Setter and Student.
-Admins can add or remove exam setter. Exam setters can schedule any exam, set the mcq questions with a given
-time constraint. [[Code]](https://github.com/amirraj/University-Admission)
-
-
-- **Name Game**:
-   <br><ins>Course:</ins> Information and System Design Lab
-   <br><ins>Tools:</ins> Android, Java, SQLite
-  <br>
-  A general knowledge based multiplayer android game. The app communicates with players via WiFi hot-spot
-where a host can initialize a game in different modes (classical and rapid fire), select topics (country, flower, fruit,
-bird etc) and choosing nearby players. Players have to provide names for each topic starting with a random letter
-within a time limit. [[Code]](https://github.com/amirraj/Name-Game)
-
-
-- **CNC Machine**:
-   <br><ins>Course:</ins> Microcontroller Based System Design Lab
-   <br><ins>Tools:</ins> Arduino, Bluetooth module, LCD display
-  <br><br>
-  An arduino controlled hardware project where users can input text from mobile app and the device will write that
-on a paper by a pen. [[Code]](https://github.com/amirraj/CNC-Machine)
-
-
-- **Shopping Cart**:
-   <br><ins>Course:</ins> Software Development-IV
-   <br><ins>Tools:</ins> php, html, css, bootstrap, sql 
-  <br>
- A simple e-commerce website for buying computer accessories. [[Code]](https://github.com/amirraj/shopping-cart)
-
-
-
-- **University Management System**:
-   <br><ins>Course:</ins> Database Lab
-   <br><ins>Tools:</ins> Java Swing, MySQL
-  <br>
-  An interface based database project to manage Courses, Students, Faculty members, Library and regular of a
-university. [[Code]](https://github.com/amirraj/University-Management-System).
-
-
-- **Equation Solver**:
-   <br><ins>Course:</ins> Software Development-III
-   <br><ins>Tools:</ins> Android, Java, SQLite
-  <br>
-  An android app for solving linear and polynomial equations up to degree 6 using interpolation techniques. [[Code]](https://github.com/amirraj/Equation-Solver)
-.
-
-
-- **Pac-Man Game**:
-   <br><ins>Course:</ins> Software Development-II
-   <br><ins>Tools:</ins> Java, Java Swing, MySQL 
-  <br>
- This project implemets the classical pac-man game using the OOP concepts in Java. [[Code]](https://github.com/amirraj/pacman-game)
-
-
-- **Bank Management System**:
-   <br><ins>Course:</ins> Object Oriented Programming Lab
-   <br><ins>Tools:</ins> Java, Java Swing, MySQL 
-  <br>
-  A basic bank management project using Java which can perform CRUD operations. [[Code]](https://github.com/amirraj/Bank-Management)
-
-
-- **Antivirus Game**:
-   <br><ins>Course:</ins> Software Development-I
-   <br><ins>Tools:</ins> C++, iGraphics library
-  <br>
-  A simple shooting game where the main character resides in the middle of the screen with circular movement ability and enemies (viruses) try to get him coming from all around. [[Code]](https://github.com/amirraj/anti-virus-game)

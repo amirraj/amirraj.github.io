@@ -5,7 +5,7 @@ permalink: /home/
 author_profile: true
 ---
 
-I am Amir Hossain Raj, a PhD student at [George Mason University (GMU)](http://gmu.edu/) in the Dept. of Computer Science. I have graduated with a B.Sc. degree in Computer Science and Engineering from [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh. My research interests include, but are not limited to, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. Currently, I am working as a Graduate Teaching Assistant at GMU.
+I am Amir Hossain Raj, a PhD student at [George Mason University (GMU)](http://gmu.edu/) in the Dept. of Computer Science. I have graduated with a B.Sc. degree in Computer Science and Engineering from [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh. My research interests include, but are not limited to, Deep Learning, Reonforcement Learning, Computer Vision and Robotics. Currently I am working in [RobotiXX Lab](https://cs.gmu.edu/~xiao/RobotiXX/lab.html) under the supervision of [Dr. Xuesu Xiao](https://cs.gmu.edu/~xiao/). My recent projects include Social compliant navigation of autonomous robots, dexterous locomotion of legged robots in various constrained spaces, etc.
 
 
 **For additional information, please see my [CV](https://amirraj.github.io/cv/) and [publications](https://amirraj.github.io/publications/).**

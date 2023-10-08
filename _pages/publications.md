@@ -6,6 +6,14 @@ author_profile: true
 ---
 **Full publication list can be accessed from the [Google Scholar](https://scholar.google.com/citations?user=QpmzDxsAAAAJ&hl=en).**
 
+## 2022
+
+---
+
+- Suvom Shaha, Faisal Muhammad Shah, **Amir Hossain Raj**, Ashek Seum, Saiful Islam, Sifat Ahmed,
+[“Video Captioning in Bengali With Visual Attention”](https://ieeexplore.ieee.org/abstract/document/10055190), 2022 25th International Conference on Computer and Information Technology (ICCIT).
+
+
 ## 2021
 
 ---
