@@ -6,6 +6,18 @@ author_profile: true
 ---
 **Full publication list can be accessed from the [Google Scholar](https://scholar.google.com/citations?user=QpmzDxsAAAAJ&hl=en).**
 
+## 2024
+
+---
+
+- **Amir Hossain Raj**, Zichao Hu, Haresh Karnan, Rohan Chandra, A. Payandeh, L. Mao, Peter Stone, Joydeep Biswas, and Xuesu Xiao.
+Targeted Learning: A Hybrid Approach to Social Robot Navigation. (will be presented at ICRA 2024).
+
+- Zifan Xu, **Amir Hossain Raj**, Xuesu Xiao, and Peter Stone. Dexterous Legged Locomotion in Confined
+3D Spaces with Reinforcement Learning. (will be presented at ICRA 2024).
+
+
+
 ## 2022
 
 ---
