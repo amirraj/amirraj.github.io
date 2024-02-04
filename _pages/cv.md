@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download Full CV](https://amirraj.github.io/files/AmirHossainRajCV.pdf) [<ins>*Last Updated on January 30, 2023*</ins>]
+[Download Full CV](https://amirraj.github.io/files/AmirHossainRajCV.pdf) [<ins>*Last Updated on January 30, 2024*</ins>]
 
 ## Education 
 -------------
