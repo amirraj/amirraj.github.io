@@ -9,6 +9,8 @@ author_profile: true
 * **Graduate Teaching Assistant** at [George Mason University (GMU)](http://gmu.edu/), Fairfax, Virginia, USA. _[August 2022 - Present]_ <br />
    Courses:
      - Introduction to Computer Programming (CS 112)
+     - Low level programming (CS 262)
+     - Data Mining (CS 584)
 
 * **Lecturer** at [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh. _[November 2021 - August 2022]_ <br />
    Courses:

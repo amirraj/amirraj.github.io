@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download Full CV](https://amirraj.github.io/files/AmirHossainRajCV.pdf) [<ins>*Last Updated on January 30, 2024*</ins>]
+[Download Full CV](https://amirraj.github.io/files/AmirHossainRajCV.pdf) [<ins>*Last Updated on December 12, 2024*</ins>]
 
 ## Education 
 -------------
@@ -15,6 +15,11 @@ redirect_from:
 ---
 - [George Mason University (GMU)](http://gmu.edu/), Virginia, USA.<br>
 <i style='color:#000099;'>**August 2022 - Present**</i>
+
+## MS in Computer Science 
+---
+- [George Mason University (GMU)](http://gmu.edu/), Virginia, USA.<br>
+<i style='color:#000099;'>**August 2022 - December 2024**</i>
 
 ## B.Sc. in Computer Science and Engineering
 ---
@@ -28,7 +33,7 @@ redirect_from:
 
 ## Employment 
 -------------
-<b>Graduate Teaching Assistant</b><br />
+<b>Graduate Teaching/Research Assistant</b><br />
 George Mason University <br/>
 Fairfax, Virginia<br />
 <i style='color:#000099;'>**August 2022 - Present**</i><br/>

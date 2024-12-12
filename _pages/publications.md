@@ -9,12 +9,13 @@ author_profile: true
 ## 2024
 
 ---
+- Daeun Song, Jing Liang, Amirreza Payandeh, **Amir Hossain Raj**, Xuesu Xiao, Dinesh Manocha. VLM-Social-Nav: Socially Aware Robot Navigation through Scoring using Vision-Language Models (RA-L)
 
 - **Amir Hossain Raj**, Zichao Hu, Haresh Karnan, Rohan Chandra, A. Payandeh, L. Mao, Peter Stone, Joydeep Biswas, and Xuesu Xiao.
-Targeted Learning: A Hybrid Approach to Social Robot Navigation. (will be presented at ICRA 2024).
+Targeted Learning: A Hybrid Approach to Social Robot Navigation. (ICRA 2024).
 
 - Zifan Xu, **Amir Hossain Raj**, Xuesu Xiao, and Peter Stone. Dexterous Legged Locomotion in Confined
-3D Spaces with Reinforcement Learning. (will be presented at ICRA 2024).
+3D Spaces with Reinforcement Learning. (ICRA 2024).
 
 
 

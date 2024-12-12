@@ -6,11 +6,50 @@ author_profile: true
 ---
 
 ## [Recent Projects]
-- **Targeted Learning: A Hybrid Approach to Social Robot Navigation**
-  * Abstract: Empowering robots to navigate in a socially compliant manner is essential for the acceptance of robots moving in human-inhabited environments. Previously, roboticists have developed classical navigation systems with decades of empirical validation to achieve safety and efficiency. However, the many complex factors of social compliance make classical navigation systems hard to adapt to social situations, where no amount of tuning enables them to be both safe (people are too unpredictable) and efficient (the frozen robot problem). With recent advances in deep learning approaches, the common reaction has been to entirely discard classical navigation systems and start from scratch, building a completely new learning-based social navigation planner. In this work, we find that this reaction is unnecessarily extreme: using a large-scale real-world social navigation dataset, SCAND, we find that classical systems can be used safely and efficiently in a large number of social situations (up to 80%). We therefore ask if we can rethink this problem by leveraging the advantages of both classical and learning-based approaches. We propose a hybrid strategy in which we learn to switch between a classical geometric planner and a data-driven method. Our experiments on both SCAND and two physical robots show that the hybrid planner can achieve better social compliance in terms of a variety of metrics, compared to using either the classical or learning-based approach alone. [[Preprint]](https://browse.arxiv.org/pdf/2309.13466.pdf) [[Video]](https://youtu.be/QT0JTuPhnqE?si=5KXGpkhJGD_5NO8D)
+- **Human-Robot Co-Transportation with Human Uncertainty-Aware MPC and Pose Optimization**
+  * Abstract: This paper proposes a new control algorithm for
+human-robot co-transportation based on a robot manipulator
+equipped with a mobile base and a robotic arm. The primary
+focus is to adapt to human uncertainties through the robot’s
+whole-body kinematics and pose optimization. We introduce
+an augmented Model Predictive Control (MPC) formulation
+that explicitly models human uncertainties and contains extra
+variables than regular MPC to optimize the pose of the robotic
+arm. The core of our methodology involves a two-step iterative
+design: At each planning horizon, we select the best pose of
+the robotic arm (joint angle combination) from a candidate
+set, aiming to achieve the lowest estimated control cost. This
+selection is based on solving an uncertainty-aware Discrete
+Algebraic Ricatti Equation (DARE), which also informs the
+optimal control inputs for both the mobile base and the robotic
+arm. To validate the effectiveness of the proposed approach, we
+provide theoretical derivation for the uncertainty-aware DARE
+and perform simulated and hardware experiments using a Fetch
+robot under varying conditions, including different trajectories
+and noise levels. The results reveal that our proposed approach
+outperforms baseline algorithms.
+ [[Preprint]](https://arxiv.org/pdf/2404.00514) [[Video]](https://youtu.be/PwDM0ed08ms?si=PVsEdDzGWro5cpkl)
   
-- **A Study on Learning Social Robot Navigation with Multimodal Perception**
-  * Abstract: Autonomous mobile robots need to perceive the environments with their onboard sensors (e.g., LiDARs and RGB cameras) and then make appropriate navigation decisions. In order to navigate human-inhabited public spaces, such a navigation task becomes more than only obstacle avoidance, but also requires considering surrounding humans and their intentions to somewhat change the navigation behavior in response to the underlying social norms, i.e., being socially compliant. Machine learning methods are shown to be effective in capturing those complex and subtle social interactions in a data-driven manner, without explicitly hand-crafting simplified models or cost functions. Considering multiple available sensor modalities and the efficiency of learning methods, this paper presents a comprehensive study on learning social robot navigation with multimodal perception using a large-scale realworld dataset. The study investigates social robot navigation decision making on both the global and local planning levels and contrasts unimodal and multimodal learning against a set of classical navigation approaches in different social scenarios, while also analyzing the training and generalizability performance from the learning perspective. We also conduct a human study on how learning with multimodal perception affects the perceived social compliance. The results show that multimodal learning has a clear advantage over unimodal learning in both dataset and human studies. We open-source our code for the community’s future use to study multimodal perception for learning social robot navigation. [[Preprint]](https://browse.arxiv.org/pdf/2309.12568.pdf) [[Video]](https://youtu.be/5j8mAK9ecjs?si=dSjcXME6bupwPp-x)
+- **Social-LLaVA: Enhancing Robot Navigation through Human-Language Reasoning in Social Spaces**
+  * Abstract: Most existing social robot navigation techniques
+either leverage hand-crafted rules or human demonstrations to
+connect robot perception to socially compliant actions. However, there remains a significant gap in effectively translating
+perception into socially compliant actions, much like how
+human reasoning naturally occurs in dynamic environments.
+Considering the recent success of Vision-Language Models
+(VLMs), we propose using language to bridge the gap in
+human-like reasoning between perception and socially aware
+robot actions. We create a vision-language dataset, Social
+robot Navigation via Explainable Interactions (SNEI), featuring 40K human-annotated Visual Question Answers (VQAs)
+based on 2K human-robot social interactions in unstructured,
+crowded public spaces, spanning perception, prediction, chain of-thought reasoning, action, and explanation. We fine-tune a
+VLM, Social-LLaVA, using SNEI to demonstrate the practical
+application of our dataset. Social-LLaVA outperforms state-of-the-art models like GPT-4V and Gemini, based on the average of
+fifteen different human-judge scores across 50 VQAs. Deployed
+onboard a mobile robot, Social-LLaVA enables human-like
+reasoning, marking a promising step toward socially compliant
+robot navigation in dynamic public spaces through language
+reasoning. [[Preprint]](https://cs.gmu.edu/~xiao/papers/social_llava.pdf) [[Video]](https://youtu.be/dcHOuPguz_s?si=cB0YmIVhWB7u3itR)
 
 
 ## [Previous Projects]
