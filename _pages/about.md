@@ -14,7 +14,7 @@ I am Amir, a PhD student at [George Mason University (GMU)](http://gmu.edu/) in 
 **For additional information, please see my [CV](https://amirraj.github.io/cv/) and [publications](https://amirraj.github.io/publications/).**
 
 
-## Recent News
+## News
 <!-- - <span style="color:Blue"> [January 29, 2024] </span> - <span style="color:red">Two papers got accepted at ICRA 2024.</span> -->
 - <span style="color:Blue"> [November 21, 2024] </span> - Paper accepted at RA-L. [link](https://arxiv.org/abs/2404.00210)
 - <span style="color:Blue"> [October 7, 2024] </span> -  A workshop paper got accepted at IROS 2024. [link](https://arxiv.org/pdf/2309.12568)

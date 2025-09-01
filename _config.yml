@@ -81,13 +81,13 @@ google_analytics: G-Q2BP88LX3M
 # Site Author
 author:
   name             : "Amir Hossain Raj"
-  avatar           : "profile.jpg"
+  avatar           : "profile_v2.jpg"
   bio              : 
   location         : "Virginia, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QpmzDxsAAAAJ&hl=en"
-  email            :  "raj.amir@outlook.com"
+  email            :  "araj20@gmu.edu"
   researchgate     :  "https://www.researchgate.net/profile/Amir-Raj"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "_amirraj"
   vine             :
   weibo            :
   xing             :
@@ -260,18 +260,12 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 # Plugins
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
-  - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
-  - jemoji
 
 
 # Archives
